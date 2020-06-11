@@ -1,1 +1,3 @@
-// placeholder
+
+=== Launch into a new VPC
+include::boomi-molecule-master.template.adoc[]
