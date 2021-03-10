@@ -1,1 +1,12 @@
-// placeholder
+
+:template_aws_cloudformation_stack:
+:template_aws_cloudformation_waitcondition:
+:template_aws_cloudformation_waitconditionhandle:
+:template_aws_cloudwatch_alarm:
+:template_aws_ec2_instance:
+:template_aws_ec2_securitygroup:
+:template_aws_ec2_volume:
+:template_cloudformation:
+:template_cloudwatch:
+:template_deterministic_ec2_instances:
+:template_ec2:
